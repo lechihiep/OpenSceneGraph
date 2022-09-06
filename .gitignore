@@ -16,6 +16,8 @@ include/osg/GL
 include/osg/Version
 include/osgQt/Version
 src/osgQt/__
+build/
+3rdParty_VS2017_v141_x64_V11_full/
 
 lib/
 bin/
